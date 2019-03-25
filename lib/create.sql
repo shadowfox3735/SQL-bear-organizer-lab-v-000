@@ -3,5 +3,5 @@ CREATE TABLE bear
     (id INTEGER PRIMARY KEY,
     name TEXT,
     age INTEGER,
-    gpa FLOAT,
+    gender TEXT,
     tardies INTEGER);
