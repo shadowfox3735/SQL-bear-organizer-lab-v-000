@@ -7,12 +7,10 @@ VALUES ("Tabitha", 1, "female", "black", "lazy", 1)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
 VALUES ("Sergeant Brown", 5, "male", "brown", "taciturn", 0)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
-
+VALUES ("Melissa", 5, "female", "brown", "playful", 1)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
-
+VALUES ("Grinch", 7, "male", "green", "grumpy", 1)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
-
-INSERT INTO bears (id, name, age, gender, color, temperament, alive)
-
+VALUES ("Wendy", 6, "female", "red", "sly", 1)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
 VALUES (NULL, 6, "female", "grey", "violent", 1)
