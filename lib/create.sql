@@ -4,4 +4,6 @@ CREATE TABLE bear
     name TEXT,
     age INTEGER,
     gender TEXT,
-    tardies INTEGER);
+    color TEXT,
+    temperament TEXT,
+    alive BOOLEAN);
